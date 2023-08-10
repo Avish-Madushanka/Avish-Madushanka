@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/OnaliyVinukiy/OnaliyVinukiy/blob/main/Make%20your%20README%20(1).png)
+![MasterHead](https://github.com/Avish-Madushanka/Avish-Madushanka/blob/main/Make%20your%20README%20(2).png)
 <h1 align="center">Hi 👋, I'm Avish Madushanka</h1>
 <h3 align="center">1:13 PM I am a passionate Developer and UI/UX Designer, with a knack for exploring the world of technology.</h3>
-
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avish-madushanka&label=Profile%20views&color=0e75b6&style=flat" alt="avish-madushanka" /> </p>
 
 - 🌱 I’m currently learning **MEARN and MACHINE LEARNING**
