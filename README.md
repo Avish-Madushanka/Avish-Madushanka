@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avish-madushanka&theme=radical&show_icons=true&locale=en" alt="avish-madushanka" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Avish-Madushanka&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Avish-Madushanka&theme=highcontrast&type=png" alt="GitHub Streak" /></a>
