@@ -40,3 +40,4 @@
 
 
 <img src="https://streak-stats.demolab.com?user=Avish-Madushanka&theme=chartreuse-dark&type=png" alt="GitHub Streak" /></a>
+[![An image of @avishmadushanka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avishmadushanka)](https://holopin.io/@avishmadushanka)
