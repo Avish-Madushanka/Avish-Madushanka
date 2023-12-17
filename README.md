@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MEARN and MACHINE LEARNING**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [https://github.com/Avish-Madushanka]
 
 - 📝 I regularly write articles on [https://medium.com/@avioniks](https://medium.com/@avioniks)
 
