@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Avish-Madushanka/Avish-Madushanka.git)
+![MasterHead](https://github.com/Avish-Madushanka/Avish-Madushanka.git.png)
 <h1 align="center">Hi 👋, I'm Avish Madushanka Rodrigo</h1>
 <h3 align="center">I am a passionate Full Stack Developer and UI/UX Designer, with a knack for exploring the world of technology.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvcWtuY3AwaWM5ZzV2YWNkYjBsbmNyb28yMGI2bW54cThpMWQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
