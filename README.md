@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Avish-Madushanka/Avish-Madushanka/blob/main/Make%20your%20README%20(2).png)
 <h1 align="center">Hi 👋, I'm Avish Madushanka Rodrigo</h1>
 <h3 align="center">I am a passionate Full Stack Developer and UI/UX Designer, with a knack for exploring the world of technology.</h3>
-<img align="right" alt="coding" width="400" src="[https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd4NGw5YXJxa204bjVsY3BxOGN1MHB0MTI0Z3p0ZjhjdDIybXltZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvcWtuY3AwaWM5ZzV2YWNkYjBsbmNyb28yMGI2bW54cThpMWQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avish-madushanka&label=Profile%20views&color=0e75b6&style=flat" alt="avish-madushanka" /> </p>
 
 - 🌱 I’m currently learning **MEARN, Java and Internet of Things**
