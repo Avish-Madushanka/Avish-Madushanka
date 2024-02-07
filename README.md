@@ -1,30 +1,5 @@
 ![MasterHead](git.png)
-<head>
-<style>
-.typewriter h1 {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
-}
 
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-</style>
-</head>
 <h1 align="center" class="typewriter">Hi 👋, I'm Avish Madushanka Rodrigo</h1>
 <h3 align="center">I am a passionate Full Stack Developer and UI/UX Designer, with a knack for exploring the world of technology.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvcWtuY3AwaWM5ZzV2YWNkYjBsbmNyb28yMGI2bW54cThpMWQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
