@@ -1,6 +1,6 @@
 ![MasterHead](git.png)
 
-<h1 align="center" class="typewriter">Hi 👋, I'm Avish Madushanka Rodrigo</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Avish+Madushanka+Rodrigo" alt="Typing SVG" /></a>
 <h3 align="center">I am a passionate Full Stack Developer and UI/UX Designer, with a knack for exploring the world of technology.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvcWtuY3AwaWM5ZzV2YWNkYjBsbmNyb28yMGI2bW54cThpMWQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avish-madushanka&label=Profile%20views&color=0e75b6&style=flat" alt="avish-madushanka" /> </p>
