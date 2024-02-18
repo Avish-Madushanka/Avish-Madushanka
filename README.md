@@ -60,7 +60,7 @@
 </div><br/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avish-Madushanka&theme=chartreuse-dark&layout=compact&langs_count=8&count_private=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avish-Madushanka&theme=chartreuse-dark&layout=compact&langs_count=12&count_private=true" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=Avish-Madushanka&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Avish-Madushanka's Stats">
 
 
