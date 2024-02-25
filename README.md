@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **MEARN, Java and Internet of Things**
 
-- 👨‍💻 All of my projects are available at https://github.com/Avish-Madushanka Go check them!
+- 👨‍💻 All of my projects are available at https://github.com/Avish-Madushanka
+  Go check them!
 
 - 📝 I regularly write articles on [https://medium.com/@avioniks](https://medium.com/@avioniks)
 
