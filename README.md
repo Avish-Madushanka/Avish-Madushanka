@@ -62,7 +62,7 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avish-Madushanka&theme=chartreuse-dark&layout=compact&langs_count=20&count_private=true" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avish-Madushanka&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Avish-Madushanka's Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avish-Madushanka&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Avish-Madushanka's Stats">
 
 
 
