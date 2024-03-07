@@ -66,5 +66,5 @@
 
 
 
-<img src="https://streak-stats.demolab.com?user=Avish-Madushanka&theme=chartreuse-dark&type=png" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Avish-Madushanka&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage" alt="Avish's Stats">
 [![An image of @avishmadushanka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avishmadushanka)](https://holopin.io/@avishmadushanka)
