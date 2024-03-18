@@ -62,7 +62,7 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avish-Madushanka&theme=chartreuse-dark&layout=compact&langs_count=20&count_private=true" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avish-Madushanka&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true" alt="Avish's Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avish-Madushanka&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage" alt="Avish's Stats">
  <img src="https://streak-stats.demolab.com?user=Avish-Madushanka&theme=highcontrast&hide_border=true">
 
 [![An image of @avishmadushanka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avishmadushanka)](https://holopin.io/@avishmadushanka)
