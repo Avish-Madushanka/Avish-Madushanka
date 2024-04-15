@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvcWtuY3AwaWM5ZzV2YWNkYjBsbmNyb28yMGI2bW54cThpMWQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avish-madushanka&label=Profile%20views&color=0e75b6&style=flat" alt="avish-madushanka" /> </p>
 
-- 🌱 I’m currently learning **MEARN, and IoT**
+- 🌱 I’m currently learning **MEARN, and Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at https://github.com/Avish-Madushanka
   </br>Go check them!
