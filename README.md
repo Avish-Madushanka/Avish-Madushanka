@@ -1,7 +1,7 @@
 ![MasterHead](git.png)
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=25FF1B&center=true&random=false&width=500&lines=Hello+%F0%9F%A4%99+I+am+Avish+Madushanka+Rodrigo" alt="Typing SVG" /></a></h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Full Stack Developer | UI/UX Designer | FOSS Volunteer</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFvcWtuY3AwaWM5ZzV2YWNkYjBsbmNyb28yMGI2bW54cThpMWQ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avish-madushanka&label=Profile%20views&color=0e75b6&style=flat" alt="avish-madushanka" /> </p>
 
