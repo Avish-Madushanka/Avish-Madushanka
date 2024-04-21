@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@avioniks](https://medium.com/@avioniks)
 
-- 💬 Ask me about **UI/UX Designing, Full Stack Development and REACT**
+- 💬 Ask me about **UI/UX Designing and Full Stack Development**
 
 - 📫 How to reach me **avishmadushanka21@gmail.com**
 
