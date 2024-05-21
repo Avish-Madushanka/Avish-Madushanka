@@ -19,9 +19,7 @@
 
 - 📄 Know about my experiences
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
