@@ -1,4 +1,4 @@
-![MasterHead](git.png)
+
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=25FF1B&center=true&random=false&width=500&lines=Hello+%F0%9F%A4%99+I+am+Avish+Madushanka+Rodrigo" alt="Typing SVG" /></a></h1>
 <h3 align="center">Full Stack Developer | UI/UX Designer | FOSS Volunteer </h3>
