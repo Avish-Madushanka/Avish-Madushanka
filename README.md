@@ -34,6 +34,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
+<br/>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
+ </a>
+</p>
+
 <br/>
 
 
