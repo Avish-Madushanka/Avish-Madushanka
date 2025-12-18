@@ -3,7 +3,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=90ee90&center=true&random=false&width=500&lines=Hello+%F0%9F%A4%99+I+am+Avish+Madushanka+Rodrigo" alt="Typing SVG" /></a></h1>
 <h3 align="center">Full Stack Developer | UI/UX Designer | FOSS Volunteer | Aspiring Software Engineer </h3>
 <h4 align="center">With a knack for exploring the world of technology!!</h4>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxZ3I1dGJjYnBocjBnaHM5dWV1OTZzeHIxN2cxd2NwNTMwdXAxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NxZ3I1dGJjYnBocjBnaHM5dWV1OTZzeHIxN2cxd2NwNTMwdXAxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avish-madushanka&label=Profile%20views&color=0e75b6&style=flat" alt="avish-madushanka" /> </p>
 
 - 🌱 I’m currently learning **MEARN Stack, Mobile Application Development and Artificial Intelligence**
